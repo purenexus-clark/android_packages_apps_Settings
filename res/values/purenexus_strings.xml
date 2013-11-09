@@ -64,6 +64,11 @@
     <string name="notification_light_voicemail_title">Voicemail</string>
     <string name="allow_lights_title">Lights in do not disturb mode</string>
     <string name="notification_light_screen_on">Lights with screen on</string>
+
+    <!-- Gesture Settings -->
+    <!-- Settings main menu entry -->
+    <string name="gesture_settings_title">Gestures</string>
+
     <!-- Expanded desktop -->
     <string name="power_menu_expanded_desktop">Expanded desktop</string>
     <string name="expanded_hide_nothing">Hide nothing</string>
