@@ -88,6 +88,14 @@
                     android:targetClass="com.android.purenexussettings.TinkerActivity" />
         </dashboard-tile>
 
+        <!-- Pure Settings
+        <dashboard-tile
+                android:id="@+id/custom_settings"
+                android:icon="@drawable/ic_settings_purenexus"
+                android:title="@string/custom_settings_title"
+                android:fragment="com.pure.settings.PureSettings"
+                /> -->
+
         <dashboard-tile
                 android:id="@+id/bitsyko_layers"
                 android:icon="@drawable/ic_bitsyko_layers"
